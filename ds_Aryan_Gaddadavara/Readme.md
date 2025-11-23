@@ -25,16 +25,17 @@ Key behavioral metrics include position size, trade volume, price distribution, 
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
 ds_<candidate_name>/
-├── notebook_1.ipynb # Main analysis notebook (Google Colab)
-├── csv_files/ # Raw and merged input datasets
-│ └── *.csv
-├── outputs/ # All generated graphs and visualizations
-│ └── *.png / *.jpg
-├── ds_report.pdf # Final 2-page summary report
-└── README.md
+├── notebook_1.ipynb            # Main analysis notebook (Colab)
+├── csv_files/                  # Raw and merged CSV datasets
+│   └── *.csv
+├── outputs/                    # All graphs and visualization results
+│   └── *.png / *.jpg
+├── ds_report.pdf               # Final 2-page analysis report
+└── README.md                   # You are here
+
 
 
 ---
@@ -42,10 +43,7 @@ ds_<candidate_name>/
 ## Colab Notebook
 
 Open the main processing and analysis notebook here:
-
-*Colab Link:* Paste your link here after uploading notebook_1.ipynb  
-Example:  
-https://colab.research.google.com/drive/XXXX
+https://colab.research.google.com/drive/15CDDL-Jn6hkbOqkcm-TdK59HzCh8nuOy?usp=sharing
 
 ---
 
@@ -65,7 +63,7 @@ All insights are supported by plots saved in the outputs/ folder.
 
 ---
 
-## Visualizations Generated
+## Visualizations Generated(outputs)
 
 The exploratory data analysis produces the following charts:
 
@@ -77,21 +75,6 @@ The exploratory data analysis produces the following charts:
 - Sentiment Frequency Bar Chart  
 
 These figures illustrate how traders respond when market psychology shifts toward fear or greed.
-
----
-
-## Report Summary
-
-The document ds_report.pdf contains:
-
-- Introduction  
-- Dataset overview  
-- Methodology  
-- Visual results with interpretations  
-- Key findings  
-- Conclusion and future extensions  
-
-The report remains concise at two pages, following assignment requirements.
 
 ---
 
@@ -112,6 +95,7 @@ The report remains concise at two pages, following assignment requirements.
 1. Open the project notebook using the Colab link above.  
 2. Upload all CSV files into the csv_files/ directory in the Colab file explorer.  
 3. Run all notebook cells in sequence.  
-4. Generated charts will automatically be saved to the outputs/ folder.  
+  
 
 ---
+
