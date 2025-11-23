@@ -1,7 +1,7 @@
-<h1 align="center">Market Sentiment Impact on Crypto Trading</h1>
+<h1 align="center">Trader Behavior Insights</h1>
 
 <p align="center">
-  <em>Data Science Analysis of Market Psychology and Real Trading Behavior</em>
+  <em>Data Science Analysis of Real Trading Behavior</em>
 </p>
 
 <p align="center">
@@ -83,5 +83,6 @@ These figures illustrate how traders respond when market psychology shifts towar
   
 
 ---
+
 
 
