@@ -25,21 +25,6 @@ Key behavioral metrics include position size, trade volume, price distribution, 
 
 ---
 
-## 📁 Project Structure
-
-ds_<candidate_name>/
-├── notebook_1.ipynb            # Main analysis notebook (Colab)
-├── csv_files/                  # Raw and merged CSV datasets
-│   └── *.csv
-├── outputs/                    # All graphs and visualization results
-│   └── *.png / *.jpg
-├── ds_report.pdf               # Final 2-page analysis report
-└── README.md                   # You are here
-
-
-
----
-
 ## Colab Notebook
 
 Open the main processing and analysis notebook here:
@@ -90,7 +75,7 @@ These figures illustrate how traders respond when market psychology shifts towar
 
 ---
 
-## How to Reproduce the Analysis
+## How run the Analysis
 
 1. Open the project notebook using the Colab link above.  
 2. Upload all CSV files into the csv_files/ directory in the Colab file explorer.  
@@ -98,4 +83,5 @@ These figures illustrate how traders respond when market psychology shifts towar
   
 
 ---
+
 
